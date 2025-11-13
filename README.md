@@ -49,8 +49,8 @@ text> **Result**: **+30% confidence** by removing background clutter!
 
 ### Steps
 ```bash
-git clone https://github.com/yourusername/hybrid-cv-pipeline.git
-cd hybrid-cv-pipeline
+git clone https://github.com/HammadKhalid75/Lab8.git
+cd Lab8
 In MATLAB:
 matlabrun('hybrid_pipeline.m')
 
